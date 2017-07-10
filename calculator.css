@@ -1,0 +1,34 @@
+.calculator {
+ background-color:black;
+ width:100%;
+ height:160%;
+ position:absolute;
+ bottom: 0% !important;
+ top: 0%;
+
+
+}
+
+.btn {
+  margin: 15% 0% 15% 0%;
+}
+
+
+.screen {
+
+    background-color: #fffaad;
+
+
+}
+
+#btnGroupAddon {
+  background-color: red;
+
+
+
+}
+
+#input {
+  height: 4.2em
+
+}
